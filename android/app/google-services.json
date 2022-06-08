@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932207614636",
+    "project_id": "geo-quest-app",
+    "storage_bucket": "geo-quest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932207614636:android:c8210e1340c60848801d09",
+        "android_client_info": {
+          "package_name": "com.example.geo_quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932207614636-rm0hmpucj8l9to5uiunhf098lvprtl25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEYVShyK4BGOMGftSE6_kJ9cXs-laTuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932207614636-rm0hmpucj8l9to5uiunhf098lvprtl25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

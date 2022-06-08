@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/geo_quest/BuildConfig.java
+ com.example.geo_quest.BuildConfig
